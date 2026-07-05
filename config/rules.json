@@ -1,0 +1,27 @@
+[
+    {
+        "action": "ALLOW",
+        "protocol": "TCP",
+        "port": 80
+    },
+    {
+        "action": "ALLOW",
+        "protocol": "TCP",
+        "port": 443
+    },
+    {
+        "action": "ALLOW",
+        "protocol": "ICMP",
+        "port": -1
+    },
+    {
+        "action": "BLOCK",
+        "protocol": "TCP",
+        "port": 23
+    },
+    {
+        "action": "BLOCK",
+        "protocol": "UDP",
+        "port": 69
+    }
+]
