@@ -184,7 +184,13 @@ Every session produces a full audit trail:
 FireShield operates entirely on simulated, randomly generated traffic for educational and demonstration purposes. It does not capture or filter real network traffic and should not be used as a production firewall.
 
 ---
+ 
+## 📄 License
+ 
+MIT License — see the LICENSE file for details.
 
+ ---
+ 
 ## 👤 Author
 
 **Aman Sonkar**
